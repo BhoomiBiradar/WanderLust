@@ -21,7 +21,7 @@ const sampleListings = [
       },
       price: 1200,
       location: "New York City",
-      country: "United States",
+      country: "United States", 
     },
     {
       title: "Mountain Retreat",
