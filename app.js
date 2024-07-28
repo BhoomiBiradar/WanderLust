@@ -55,8 +55,6 @@ async function main(){
     await mongoose.connect(MONGO_URL);
 }
 
-
-
 app.use("/listings",listings);
 app.use("/listings/:id/reviews",reviews);
 
