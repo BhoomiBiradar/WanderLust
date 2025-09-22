@@ -14,13 +14,15 @@ The WanderListing project follows the **Model-View-Controller (MVC)** architectu
 
 The backend is built with **Node.js** and **Express.js**, using **MongoDB** as the database with **Mongoose** ODM. Server-side rendering is done using **EJS templates**.
 
-### 📊 High-Level Design (HLD)
+### High-Level Design (HLD)
 <p align="center">
   <img src="./images/hld.png" alt="High-Level Design" width="40%">
 </p>
-### 🔎 Low-Level Design (LLD)
-<img src="./images/lld.png" alt="Low-Level Design" width="100%"/>
 
+### Low-Level Design (LLD)
+<p align="center">
+<img src="./images/lld.png" alt="Low-Level Design" width="50%"/>
+</p>
 ---
 
 ## Tech Stack
